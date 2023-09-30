@@ -8,7 +8,7 @@ import Footer from "./Footer";
 
 function Landing() {
   return (
-    <div>
+    <div className="overflow-hidden">
       <Navbar />
       <HeroSection />
       <DetailsSection />
